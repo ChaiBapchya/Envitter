@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_login.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\menu\\menu_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

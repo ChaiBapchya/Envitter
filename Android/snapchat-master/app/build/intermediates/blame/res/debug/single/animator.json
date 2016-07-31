@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\login_translation_right_out.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\login_translation_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\login_translation_up.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\login_translation_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\login_translation_right_in.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\login_translation_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\scale_in.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\scale_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\login_translation_down.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\login_translation_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\build\\intermediates\\res\\merged\\debug\\animator\\scale_out.xml",
+        "source": "C:\\Users\\jeet\\AndroidStudioProjects\\snapchat-master\\app\\src\\main\\res\\animator\\scale_out.xml"
+    }
+]

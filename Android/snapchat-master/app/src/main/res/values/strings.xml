@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ENVitter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_prompt">Choose a category</string>
+
+    <string-array name="category_arrays">
+        <item>--Select--</item>
+        <item>Garbage</item>
+        <item>Pollution</item>
+        <item>Animal Rescue</item>
+        <item>Deforestation</item>
+        <item>Quality of Air</item>
+        <item>Appreciation</item>
+
+    </string-array>
+    <string name="title_activity_feed">FeedActivity</string>
+</resources>

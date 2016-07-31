@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.0.0_74d096deb691364536ee149303d5cbc01a34e3a8.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="00b0b7233e1ec64acebfac40d4983d32d4712426">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-21.0.3_d0e99fd54e56e0fb60bd96237b76473ec85d502b.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_d490c5315437b0fa55a076ccbb00f5a9f627be07.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-21.0.3_fcc3f151e94fba83646b3f0f5ced358d77ad5499.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-21.0.3_f2df6118e5c705f7840baecc16e5d3228552bb99.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_14920b119ef2237b129497e436ef5cb5af1cf2a2.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_f313c6a7b3b78ee373be57aadf805bd919b31480.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\.gradle\caches\modules-2\files-2.1\com.nostra13.universalimageloader\universal-image-loader\1.9.5\442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375\universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_d283560887398ab90577d83e89e504376f1c3ad9.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\libs\Parse-1.10.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a859414011ce2c18187acc83319688e6bd340635">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\Parse-1.10.2_f30ac02f9918d28c502953a2ada93084b18a03ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_38a93bb29769eca5915e5bc15b8f45d140a6f39c.jar" />
+    </item>
+    <item
+        jar="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\jeet\AndroidStudioProjects\snapchat-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_fe470af6a732c5c6ff64bc5b059aa85a92a28310.jar" />
+    </item>
+
+</items>
